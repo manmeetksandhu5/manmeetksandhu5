@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Manmeet Sandhu
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m proficient in MS Excel, SQL, Tableau, R and Python
+- 👀 I’m a Data Analysis, proficient in MS Excel, SQL, Tableau, R and Python
 - 📫 How to reach me https://www.linkedin.com/in/manmeet-kaur-sandhu-229285130/
 
 <!---
